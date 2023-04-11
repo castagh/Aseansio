@@ -1,3 +1,4 @@
+// controller quiz
 const db = require("../model");
 const Quiz = db.quiz;
 

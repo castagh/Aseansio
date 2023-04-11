@@ -1,3 +1,4 @@
+// controller materi
 const db = require("../model");
 const Materi = db.materi;
 const Quiz = db.quiz
